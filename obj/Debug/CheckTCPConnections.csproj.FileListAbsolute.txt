@@ -1,0 +1,7 @@
+C:\Users\david\Programming\C#\CheckTCPConnections\bin\Debug\CheckTCPConnections.exe.config
+C:\Users\david\Programming\C#\CheckTCPConnections\bin\Debug\CheckTCPConnections.exe
+C:\Users\david\Programming\C#\CheckTCPConnections\bin\Debug\CheckTCPConnections.pdb
+C:\Users\david\Programming\C#\CheckTCPConnections\obj\Debug\CheckTCPConnections.csproj.AssemblyReference.cache
+C:\Users\david\Programming\C#\CheckTCPConnections\obj\Debug\CheckTCPConnections.csproj.CoreCompileInputs.cache
+C:\Users\david\Programming\C#\CheckTCPConnections\obj\Debug\CheckTCPConnections.exe
+C:\Users\david\Programming\C#\CheckTCPConnections\obj\Debug\CheckTCPConnections.pdb
